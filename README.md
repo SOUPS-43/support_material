@@ -1,2 +1,2 @@
 # support_material
-The data set and bash scripts used in our studies.
+The data set and scripts used in our studies.
