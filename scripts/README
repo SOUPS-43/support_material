@@ -1,0 +1,2 @@
+To calculate the perceived human complexity, number of comments, number of jumps - use calculateMetrics.sh
+To calculate the number of conflicts, use the Springbok project: https://github.com/conix-security/springbok 
